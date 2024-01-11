@@ -4,6 +4,7 @@ Build a sentiment analysis model that predicts whether movie reviews are positiv
 Technologies/Concepts Covered:
 - Natural Language Processing (NLP)
 - Python
+- PyTorch
 - Scikit-Learn
 - Natural Language Toolkit (NLTK)
-- Text Vectorization
+- Data preprocessing
